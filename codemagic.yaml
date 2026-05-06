@@ -27,7 +27,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - your@email.com        # ← Replace with your email address
+          - teamqualite8@gmail.com        # ← Replace with your email address
         notify:
           success: true
           failure: true
